@@ -25,7 +25,7 @@ The project includes the following dependencies:
 
 <img src="https://i.imgur.com/RQYD4jh.png" alt="Home Screen Screenshot" width="300"/>
 
-### Sharingfunction
+### Sharing
 <img src="https://i.imgur.com/ssrqP3a.png" alt="Home Screen Screenshot" width="300"/>
 
 ### Source of news on webview
