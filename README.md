@@ -1,6 +1,7 @@
 # News App (MVVM Architecture)
 
 Ensure that you have the required API keys and permissions for accessing network resources. (https://newsapi.org/)
+Implement it on the HomePageViewModel.kt
 
 ## Dependencies
 The project includes the following dependencies:
