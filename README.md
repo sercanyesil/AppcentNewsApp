@@ -20,14 +20,14 @@ The project includes the following dependencies:
 
 ### Homescreen
 
-<img src="https://i.imgur.com/HKeotLx.png" alt="Home Screen Screenshot" width="300"/>
+<img src="https://i.imgur.com/5ceypJH.png" alt="Home Screen Screenshot" width="300"/>
 
 ### Newsdetail
 
-<img src="https://i.imgur.com/RQYD4jh.png" alt="Home Screen Screenshot" width="300"/>
+<img src="https://i.imgur.com/CDTd8tm.png" alt="Home Screen Screenshot" width="300"/>
 
 ### Sharing
-<img src="https://i.imgur.com/ssrqP3a.png" alt="Home Screen Screenshot" width="300"/>
+<img src="https://i.imgur.com/jAhUbZ6.png" alt="Home Screen Screenshot" width="300"/>
 
 ### Source of news on webview
-<img src="https://i.imgur.com/i3N1Gbh.png" alt="Home Screen Screenshot" width="300"/>
+<img src="https://i.imgur.com/asZjIQG.png" alt="Home Screen Screenshot" width="300"/>
