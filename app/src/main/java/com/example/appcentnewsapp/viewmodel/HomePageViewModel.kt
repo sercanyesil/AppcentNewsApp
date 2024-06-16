@@ -39,7 +39,8 @@ class HomePageViewModel : ViewModel() {
         viewModelScope.launch {
             newsList.value = newsRepo.loadNewsList().value
             if (query.isNotEmpty()) {
-                newsRepo.loadAllData(query, "8061e0b7414341c3a7be7429023cec2e")
+                // Implement your API here
+                newsRepo.loadAllData(query, "YOUR API KEY")
                 currentQuery = query // Save the current search query
             }
         }

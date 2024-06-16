@@ -83,7 +83,7 @@ fun HomePage(navController: NavController) {
         topBar = {
             CenterAlignedTopAppBar(
                 title = {
-                    Text(text = "Appcent NewsApp")
+                    Text(text = "NewsApp")
                 })
         },
         content = { paddingValues ->
